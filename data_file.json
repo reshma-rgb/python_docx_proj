@@ -1,0 +1,65 @@
+[{
+  "model": "custApp.Customer",
+  "pk": 1,
+  "fields": {
+    "customer_name": "New Bharat Engg Works",
+    "customer_code": "108889",
+    "address" : "Ghorpade Peth Pune Ho, Pune City Maharashtra",
+    "account_bal" : "5978.53",
+    "bill" : "0.0",
+    "advance" : "0.0"
+
+  }
+},
+{
+  "model": "custApp.Customer",
+  "pk": 2,
+  "fields": {
+    "customer_name": "Bhagwati Roof Insdustries",
+    "customer_code": "108414",
+    "address" : "Dungra Karwad Valsad Vapi Gujrat",
+    "account_bal" : "0.0",
+    "bill" : "0.0",
+    "advance" : "0.0"
+  }
+},
+
+{
+  "model": "custApp.Customer",
+  "pk": 3,
+  "fields": {
+    "customer_name": "Nobel Natural Resources India Private Ltd",
+    "customer_code": "108418",
+    "address" : "Dhimsar Anjar Kutch Gujrat",
+    "account_bal" : "67528.71",
+    "bill" : "0.0",
+    "advance" : "0.0"
+  }
+},
+
+{
+  "model": "custApp.Customer",
+  "pk": 4,
+  "fields": {
+    "customer_name": "Hi Tech Pipes Ltd",
+    "customer_code": "108457",
+    "address" : "GIDC Estate Sadanand Gujrat",
+    "account_bal" : "30349592.76",
+    "bill" : "49569693.34",
+    "advance" : "0.0"
+  }
+},
+
+{
+  "model": "custApp.Customer",
+  "pk": 5,
+  "fields": {
+    "customer_name": "New Bharat Engg Works",
+    "customer_code": "108880",
+    "address" : "Govindpura Bhopal Madhya Pradesh",
+    "account_bal" : "30349592.76",
+    "bill" : "49569693.34",
+    "advance" : "0.0"
+  }
+}
+]
